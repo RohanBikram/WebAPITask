@@ -1,0 +1,12 @@
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\bin\Debug\net8.0\StudentManager.Domain.deps.json
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\bin\Debug\net8.0\StudentManager.Domain.dll
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\bin\Debug\net8.0\StudentManager.Domain.pdb
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.csproj.AssemblyReference.cache
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.AssemblyInfo.cs
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.dll
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\refint\StudentManager.Domain.dll
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.pdb
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Domain\obj\Debug\net8.0\ref\StudentManager.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Olti9DOSa/I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rohan\\Desktop\\StudentManagementdotNET\\StudentManager.Api\\StudentManager.Domain\\StudentManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

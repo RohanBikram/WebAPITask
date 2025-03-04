@@ -1,0 +1,15 @@
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\bin\Debug\net8.0\StudentManager.Application.deps.json
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\bin\Debug\net8.0\StudentManager.Application.dll
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\bin\Debug\net8.0\StudentManager.Application.pdb
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\bin\Debug\net8.0\StudentManager.Domain.dll
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\bin\Debug\net8.0\StudentManager.Domain.pdb
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\StudentManager.Application.csproj.AssemblyReference.cache
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\StudentManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\StudentManager.Application.AssemblyInfoInputs.cache
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\StudentManager.Application.AssemblyInfo.cs
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\StudentManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\StudentM.64009950.Up2Date
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\StudentManager.Application.dll
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\refint\StudentManager.Application.dll
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\StudentManager.Application.pdb
+C:\Users\Rohan\Desktop\StudentManagementdotNET\StudentManager.Api\StudentManager.Application\obj\Debug\net8.0\ref\StudentManager.Application.dll
